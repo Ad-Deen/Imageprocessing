@@ -6,6 +6,10 @@ Welcome to the OpenCV Face Detection and Recognition project! This project focus
 
 Our system takes video streams as input, automatically trains itself on sample data, and becomes proficient in recognizing faces within the provided data. The project is designed for ease of use and integration into various applications requiring facial recognition features.
 
+<p align="center">
+  <img src="Input_Video_Stream_prompt.png" alt="Input Video Stream Prompt">
+</p>
+
 ## Features
 
 - **Face Detection:** Utilizing the HAAR Cascade algorithm, our system identifies and locates faces within a given video stream.
